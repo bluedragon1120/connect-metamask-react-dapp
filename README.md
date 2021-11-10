@@ -10,7 +10,7 @@ A lot of tutorials skip this basic login strategy, or use outdated libraries (wh
 - @usedapp/core ^0.4.1
 - @chakra-ui/react ^1.6.5
 
-The full repository can be found [HERE](https://github.com/jacobedawson/connect-metamask-react-dapp).
+The full repository can be found [HERE](https://github.com/bluedragon1120/connect-metamask-react-dapp).
 
 We will be replicating (fairly closely) the look, feel, and functionality of the following "Connect to a wallet" section of the [Uniswap v2 interface](https://app.uniswap.org/#/swap):
 
@@ -737,6 +737,4 @@ The next steps for us will be to learn how to import contracts and make transact
 
 Thanks for playing ;)
 
-[Full Repo](https://github.com/jacobedawson/connect-metamask-react-dapp)
-
-Follow me on Twitter: https://twitter.com/jacobedawson
+[Full Repo](https://github.com/bluedragon1120/connect-metamask-react-dapp)
