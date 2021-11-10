@@ -738,3 +738,8 @@ The next steps for us will be to learn how to import contracts and make transact
 Thanks for playing ;)
 
 [Full Repo](https://github.com/bluedragon1120/connect-metamask-react-dapp)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89119fad-27b2-4b4d-a294-c6e0698bfe3e/deploy-status)](https://app.netlify.com/sites/connect-metamask-react/deploys)
+
+demo https://connect-metamask-react.netlify.app/
+
